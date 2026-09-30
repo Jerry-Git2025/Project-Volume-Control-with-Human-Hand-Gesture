@@ -27,5 +27,3 @@ pip install -r requirements.txt
 4. Run project:
 python volume_control.py
 
-## 🎥 Demo
-(Add your video link here)
